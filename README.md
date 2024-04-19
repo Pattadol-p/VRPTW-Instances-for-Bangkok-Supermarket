@@ -1,6 +1,6 @@
 # VRPTW Instances
 ## Overview
-This dataset utilize knowledge from analyzing real sample data and collected data about Bangkok. The sample data studied is order and delivery data from a company in the United States published by ORTEC. The Bangkok data includes population and geographic information. I created a total of 365 instances simulating a supermarket business operating for 365 days. The data was modeled to have characteristics and distributions matching the sample data, with relationships between variables made realistic to the Bangkok context. Customer type and instance day variables were added and related to other variables.
+This dataset utilize knowledge from analyzing real sample data and collected data about Bangkok. The sample data studied is order and delivery data from a company in the United States published by [ORTEC](https://github.com/ortec/euro-neurips-vrp-2022-quickstart/tree/main/instances). The Bangkok data includes population and geographic information. I created a total of 365 instances simulating a supermarket business operating for 365 days. The data was modeled to have characteristics and distributions matching the sample data, with relationships between variables made realistic to the Bangkok context. Customer type and instance day variables were added and related to other variables.
 ## Usage
 To read these instances, make sure use my `read_vrplib` function.
 
